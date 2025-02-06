@@ -1,7 +1,7 @@
 # TIC-TAC-TOE-GUI-
 A simple command-line Tic Tac Toe game built with Python.
 
-#Feautures
+# Feautures
 Interactive GUI for an enhanced gameplay experience
 
 Supports two players
@@ -12,7 +12,7 @@ Displays the game board dynamically
 
 Determines the winner or detects a draw
 
-#How to Play 
+# How to Play 
 
 The game is played on a 3x3 grid.
 
@@ -22,7 +22,7 @@ The first player to get three of their marks in a row, column, or diagonal wins.
 
 If all 9 squares are filled and no player has won, the game ends in a draw.
 
-#Future Enhancements
+# Future Enhancements
 
 Add AI for single-player mode
 
